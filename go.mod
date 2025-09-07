@@ -1,4 +1,4 @@
-module github.com/ghughes13/GoToDoList
+module github.com/ghughes13/gotodolist
 
 go 1.25.1
 
